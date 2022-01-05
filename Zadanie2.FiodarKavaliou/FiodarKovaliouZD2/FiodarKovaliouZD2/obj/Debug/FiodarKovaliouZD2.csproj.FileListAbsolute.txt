@@ -1,0 +1,10 @@
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\bin\Debug\FiodarKovaliouZD2.exe.config
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\bin\Debug\FiodarKovaliouZD2.exe
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\bin\Debug\FiodarKovaliouZD2.pdb
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\obj\Debug\FiodarKovaliouZD2.csprojAssemblyReference.cache
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\obj\Debug\FiodarKovaliouZD2.Form1.resources
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\obj\Debug\FiodarKovaliouZD2.Properties.Resources.resources
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\obj\Debug\FiodarKovaliouZD2.csproj.GenerateResource.cache
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\obj\Debug\FiodarKovaliouZD2.csproj.CoreCompileInputs.cache
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\obj\Debug\FiodarKovaliouZD2.exe
+C:\Users\48729\Desktop\Zadanie2.FiodarKavaliou\FiodarKovaliouZD2\FiodarKovaliouZD2\obj\Debug\FiodarKovaliouZD2.pdb
